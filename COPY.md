@@ -49,9 +49,7 @@ reply yes and I'll get to work right away. statics within a few hours, the video
 3. last one from me. if BFCM ads aren't a priority right now, all good. reply yes anytime and I'll make them.
 
 ## Ads delivered, arm A
-hey {first}, here they are: 4 ads for {product}.
-
-the first 2 are new BFCM concepts. the other 2 are reworked versions of ads you're running now: {change_note_short}.
+hey {first}, here they are: 2 new BFCM ads for {product}, and 2 reworked versions of ads you're running now ({change_note_short}).
 
 they're full size and yours to run: {gift_link}
 
