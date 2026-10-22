@@ -29,7 +29,7 @@ hey {first},
 
 came across {store}'s Meta ads while looking at brands prepping for BFCM. {insight}.
 
-we built a tool that makes winning static ads, researched from what's working for brands like yours. before I pitch anything, I'd love to make you 4 free: 2 new BFCM ads for {product}, and 2 improved versions of ads you're running.
+we built a tool that makes winning static ads, researched from what's working for brands like yours. before I pitch anything, I'd love to make you 5 free: 2 new BFCM ads for {product}, and 3 improved takes on one you're running.
 
 reply yes and I'll get to work right away. you'll have them within a few hours.
 
@@ -40,7 +40,7 @@ hey {first},
 
 came across {store}'s Meta ads while looking at brands prepping for BFCM. {insight}.
 
-we're a small team making winning ads, statics and UGC videos on styles proven to lift ROAS, done for you weekly. before I pitch anything, I'd love to make you a free sample: 4 statics and a short video for {product}.
+we're a small team making winning ads, statics and UGC videos on styles proven to lift ROAS, done for you weekly. before I pitch anything, I'd love to make you a free sample: 5 statics and a short video for {product}.
 
 reply yes and I'll get to work right away. statics within a few hours, the video next day.
 
@@ -48,11 +48,11 @@ reply yes and I'll get to work right away. statics within a few hours, the video
 
 ## Cold follow-ups (no reply to the opener), 2 days apart
 1. hey {first}, still happy to make those BFCM ads for {product}. no catch, they're yours to run either way. want them?
-2. {first}, quick one: 2 of them would be sharper versions of ads you're already running, same product and look, just built to stop the scroll. worth a yes?
+2. {first}, quick one: 3 of them would be sharper takes on an ad you're already running, same product and look, just built to stop the scroll. worth a yes?
 3. last one from me. if BFCM ads aren't a priority right now, all good. reply yes anytime and I'll make them.
 
 ## Ads delivered, arm A
-hey {first}, here they are: 2 new BFCM ads for {product} from our winning ad templates, and 2 reworked versions of ads you're running now ({change_note_short}).
+hey {first}, here they are: 2 new BFCM ads for {product} from our winning ad templates, and 3 reworked takes on one of your live ads ({change_note_short}).
 
 they're full size and yours to run: {gift_link}
 
@@ -61,9 +61,9 @@ if you'd like fresh winning ads like these every Monday, plus videos, the plans 
 {sender}
 
 ## Ads delivered, arm B (statics first)
-hey {first}, here are your 4 statics for {product}: {gift_link}
+hey {first}, here are your 5 statics for {product}: {gift_link}
 
-2 are new BFCM concepts, 2 are reworked versions of ads you're running now. the video's being made and I'll send it tomorrow.
+2 are new BFCM concepts, 3 are reworked takes on one of your live ads. the video's being made and I'll send it tomorrow.
 
 {sender}
 
@@ -75,7 +75,7 @@ this is what we'd make for you every week: winning statics and videos, researche
 {sender}
 
 ## After the ads, they go quiet (2 days apart)
-1. hey {first}, made you one more while I was at it: {extra_ad_link}. happy to tweak any of the 5, just tell me what to change.
+1. hey {first}, made you one more while I was at it: {extra_ad_link}. happy to tweak any of the 6, just tell me what to change.
 2. {first}, if you want winning ads like these every Monday through BFCM, here's 10% off your first 3 months: {code}. it's applied on this link: {gift_link}?code={code}
 3. last nudge from me. your ads are yours either way. if you want more before BFCM, just reply.
 Arm B after the video: same rhythm, but the ask is always the call ({cal}), and follow-up 2 offers to send 2 more statics instead of the code.

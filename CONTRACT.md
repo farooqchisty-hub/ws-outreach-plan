@@ -39,7 +39,7 @@ best-seller. Response `202`:
   "video": { "status": "none|queued|ready", "url": null } }
 ```
 `needs_review` means the quality gate failed after all retries: Closefast escalates, never sends.
-Arm A gets 4 ads (2 new + 2 improved; 4 new if they run no statics). Arm B gets the same 4
+Arm A gets 5 ads (2 new + 3 improved options of their best live static, each a different augmentation device; 5 new if they run no statics). Arm B gets the same 5
 statics plus a video slot queued for manual production (`video.status = queued`).
 
 ### POST https://api.winningstatics.com/outreach/gifts/:gift_id/extra

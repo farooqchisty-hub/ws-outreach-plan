@@ -16,9 +16,9 @@ These are settled. Do not reopen them.
   data) is suppressed and escalated, never argued.
 
 ## The A/B test
-- Arm A, product: offer 4 free statics (2 new BFCM + 2 improved versions of ads they run).
+- Arm A, product: offer 5 free statics (2 new BFCM + 3 improved options of one ad they run). Owner, 23 Oct.
   After the ads: link to their gift page with the paid plans, booking link second.
-- Arm B, managed (done for you): offer a free sample of 4 statics and 1 short video. After the
+- Arm B, managed (done for you): offer a free sample of 5 statics and 1 short video. After the
   sample: booking link https://cal.com/farooq-magicfit/30min. Farooq negotiates on the call and
   sends the contract and a custom payment link himself.
 - Read-out per arm: replies, yes replies, gifts delivered, gift page views, checkouts, trials,
@@ -38,7 +38,7 @@ These are settled. Do not reopen them.
 - 2 new ads from the ranked template library, picked from the most unusual families (native
   surfaces such as iMessage, notes, receipts, lock screen; other edgy formats). Never generic
   offer or discount layouts.
-- 2 improved versions of statics they're running now, scored before and after on the improve
+- 3 improved options of ONE static they're running now (augmentation framework v2, three different devices; owner liked all three Round 1 options per ad), scored before and after on the improve
   framework (Stop, Headline, Proof, Offer, Ask, plus feed legibility). Keep their product,
   brand and core message; rebuild the weakest beats.
 - Must be tested on real stores and approved by the owner before the engine uses it.
