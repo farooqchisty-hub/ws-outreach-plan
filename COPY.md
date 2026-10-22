@@ -26,31 +26,34 @@ Subject line = short form of the same fact, lowercase, under 45 characters
 (e.g. "4 statics in 30 live ads", "your march ad is still running").
 
 ## Opener, arm A (product)
+Subject (both arms, owner 23 Oct): we made bfcm ads for {store}
+Make-first: the gift is generated BEFORE the opener goes out; the opener is plain text (no images, no links).
+
 hey {first},
 
 came across {store}'s Meta ads while looking at brands prepping for BFCM. {insight}.
 
-we built a tool that makes winning static ads, researched from what's working for brands like yours. before I pitch anything, I'd love to make you 5 free: 2 new BFCM ads for {product}, and 3 improved takes on one you're running.
+so we went ahead and made you 5 BFCM ads for {product}: 2 new ones from our winning ad templates, and 3 sharper takes on one you're already running.
 
-reply yes and I'll get to work right away. you'll have them within a few hours.
+they're ready. want me to send them over?
 
-{sender}
+{signature}
 
 ## Opener, arm B (managed)
 hey {first},
 
 came across {store}'s Meta ads while looking at brands prepping for BFCM. {insight}.
 
-we're a small team making winning ads, statics and UGC videos on styles proven to lift ROAS, done for you weekly. before I pitch anything, I'd love to make you a free sample: 5 statics and a short video for {product}.
+so we went ahead and made 5 BFCM statics for {product}, built on styles proven to lift ROAS. we're a small team that does this every week for ecommerce brands, statics and UGC videos, done for you.
 
-reply yes and I'll get to work right away. statics within a few hours, the video next day.
+they're ready. want me to send them over? happy to add a short video too.
 
-{sender}
+{signature}
 
 ## Cold follow-ups (no reply to the opener), 2 days apart
-1. hey {first}, still happy to make those BFCM ads for {product}. no catch, they're yours to run either way. want them?
-2. {first}, quick one: 3 of them would be sharper takes on an ad you're already running, same product and look, just built to stop the scroll. worth a yes?
-3. last one from me. if BFCM ads aren't a priority right now, all good. reply yes anytime and I'll make them.
+1. hey {first}, the 5 BFCM ads for {product} are sitting here ready. want them?
+2. {first}, quick one: 3 of them are sharper takes on an ad you're already running, same product and look, just built to stop the scroll. say the word and they're yours.
+3. last one from me. your BFCM ads are ready whenever you want them, just reply.
 
 ## Ads delivered, arm A
 Subject: same thread, so "Re: {opener subject}".
