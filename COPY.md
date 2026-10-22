@@ -27,9 +27,9 @@ Subject line = short form of the same fact, lowercase, under 45 characters
 ## Opener, arm A (product)
 hey {first},
 
-came across {store}'s Meta ads while looking at brands gearing up for BFCM. {insight}.
+came across {store}'s Meta ads while looking at brands prepping for BFCM. {insight}.
 
-we built a tool that makes winning static ads, using ad styles researched from what's working for brands like yours. before I pitch you anything, I'd love to make you 4 for free: 2 new BFCM ads for {product}, and 2 improved versions of ads you're already running.
+we built a tool that makes winning static ads, researched from what's working for brands like yours. before I pitch anything, I'd love to make you 4 free: 2 new BFCM ads for {product}, and 2 improved versions of ads you're running.
 
 reply yes and I'll get to work right away. you'll have them within a few hours.
 
@@ -38,11 +38,11 @@ reply yes and I'll get to work right away. you'll have them within a few hours.
 ## Opener, arm B (managed)
 hey {first},
 
-came across {store}'s Meta ads while looking at brands gearing up for BFCM. {insight}.
+came across {store}'s Meta ads while looking at brands prepping for BFCM. {insight}.
 
-we're a small team that makes winning ads for ecommerce brands, statics and UGC videos built on styles proven to lift ROAS, done for you every week. before I pitch you anything, I'd love to make you a free sample: 4 statics and a short video for {product}.
+we're a small team making winning ads, statics and UGC videos on styles proven to lift ROAS, done for you weekly. before I pitch anything, I'd love to make you a free sample: 4 statics and a short video for {product}.
 
-reply yes and I'll get to work right away. statics within a few hours, the video by the next day.
+reply yes and I'll get to work right away. statics within a few hours, the video next day.
 
 {sender}
 
