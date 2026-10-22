@@ -53,15 +53,29 @@ reply yes and I'll get to work right away. statics within a few hours, the video
 3. last one from me. if BFCM ads aren't a priority right now, all good. reply yes anytime and I'll make them.
 
 ## Ads delivered, arm A
-hey {first}, here they are: 2 new BFCM ads for {product} from our winning ad templates, and 3 reworked takes on one of your live ads ({change_note_short}).
+Subject: same thread, so "Re: {opener subject}".
+
+hey {first},
+
+here they are: 2 new BFCM ads for your {product}, and 3 reworked takes on your {source_ad_short} ad.
 
 {inline_ad_previews}
 
-tap any of them to open full size. full size downloads and the plans are here: {gift_link}
+{why_these_work}
 
-if anything's unclear or you'd like a change on any ad, just reply and I'll sort it.
+[{link_text}]({short_link})
 
-{sender}
+**if you've got any questions on how the paid plan would work, or you'd like a hand getting set up, just reply. happy to walk you through it.**
+
+{signature}
+
+`{why_these_work}` = 2 sentences in the owner's voice, written per lead from facts only: what their
+live ads show (the insight, the source ad's offer or angle, what we kept and what we changed from the
+change notes) and why the new ones fit (built on 1,100+ winning ad templates, ranked by what's driving
+ROAS for ecommerce brands). No result numbers, no invented claims. Their own public proof (reviews,
+customers) may be quoted exactly as on their site.
+`{link_text}` = "see all 5 full size, and how the plans work". `{short_link}` =
+winningstatics.com/for/{first}-{store-slug} (lowercase, hyphens, no random characters).
 
 ## Ads delivered, arm B (statics first)
 hey {first}, here are your 5 statics for {product}: 2 new BFCM concepts and 3 reworked takes on one of your live ads.
@@ -98,5 +112,11 @@ no problem. I'll check back in {month}. good luck with BFCM.
 ## How did you get my email?
 we found you while searching for brands like yours. happy to stop here if you'd rather not hear from me.
 
+## Signature (every email)
+`{signature}` = the sender's first name, then on the next line in bold: "Founder, Winning Statics" from
+a Farooq inbox, "Winning Statics" from a Phil inbox.
+
 ## Footer (every email)
-Winning Statics, Bangalore, India. reply "stop" and I won't email again.
+Small grey text (about 11px, #9a9a9a) at the very bottom, separated from the signature by a gap:
+Winning Statics · reply "stop" and I won't email again
+(No postal address: owner's call, 23 Oct.)

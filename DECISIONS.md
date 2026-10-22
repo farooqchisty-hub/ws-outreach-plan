@@ -10,7 +10,7 @@ These are settled. Do not reopen them.
   instantwinningstatics / perfectwinningstatics .com, and 4 named Farooq Chisty on
   winningstaticads.com / winningstaticsads.com. No other engine may use these inboxes.
 - Every email is signed with the first name of the inbox it is sent from (Phil or Farooq).
-- Footer postal address: Bangalore, India.
+- Footer: small grey "Winning Statics · reply stop" line, no postal address (owner, 23 Oct). Signature: name + bold "Founder, Winning Statics" (Phil inboxes: bold "Winning Statics").
 - "How did you get my email?" The agent answers: "we found you while searching for brands like
   yours." That's all. (Owner instruction.) A formal data request (send me my data, delete my
   data) is suppressed and escalated, never argued.
@@ -43,22 +43,22 @@ These are settled. Do not reopen them.
   brand and core message; rebuild the weakest beats.
 - Must be tested on real stores and approved by the owner before the engine uses it.
 
-## Pricing (match Magritte, include videos)
+## Pricing (owner, 23 Oct v2, supersedes the Magritte match)
 | | Starter | Growth | Scale |
 |---|---|---|---|
-| Monthly | $99 | $199 | $349 |
-| Yearly (10 months' price) | $990 | $1,990 | $3,490 |
-| Statics every Monday | 20 | 60 | 120 |
-| Videos every week (made by hand) | 1 | 2 | 3 |
+| Monthly | $49 | $79 | $199 |
+| Yearly (10 months' price) | $490 | $790 | $1,990 |
+| Statics every Monday | 20 | 60 | 90 |
+| Videos a month (made by hand, up to 30 s) | 2 | 6 | 8 |
 | Products | 2 | 8 | 16 |
 | Competitors watched | 3 | 5 | 10 |
 Free plan and the 7-day trial (5 ads) stay as they are on the main site.
-Add-ons: +25 ads $25, +60 ads $49, +5 products $19/mo, +5 competitors $19/mo, extra store $79/mo,
-+4 videos a month $79/mo. No add-on may undercut a plan's per-unit price.
+Add-ons: +25 ads $29, +60 ads $49, +5 products $19/mo, +5 competitors $19/mo, extra store $79/mo,
++4 videos a month $79/mo.
 
 ## Videos
 - Switched on, delivered by hand once a week. No generation pipeline yet.
-- Every paying plan gets a Videos section: this week's slots show "being made" until the video
-  is uploaded by the team; past videos to watch and download.
+- Every paying plan gets a Videos section: the month's video slots (2 / 6 / 8, spread across the
+  month) show "being made" until the team uploads them; past videos to watch and download.
 - Arm A: a sample video is made only after a paid monthly plan starts (first payment), never
   during a trial. Arm B: one sample video per yes, made by hand.
