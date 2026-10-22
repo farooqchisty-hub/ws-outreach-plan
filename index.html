@@ -18,7 +18,7 @@ a{color:var(--acc)}
 <nav role="tablist"></nav><main id="doc">Loading…</main>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
 <script>
-const docs=[["DECISIONS","Decisions"],["COPY","Copy"],["RULEBOOK","Rulebook"],["CONTRACT","WS ↔ Closefast"]];
+const docs=[["DECISIONS","Decisions"],["COPY","Copy"],["RULEBOOK","Rulebook"],["CONTRACT","WS ↔ Closefast"],["FAQ","Doubts"]];
 const nav=document.querySelector('nav'),main=document.getElementById('doc');
 async function show(k){[...nav.children].forEach(b=>b.setAttribute('aria-selected',b.dataset.k===k));
  try{const t=await (await fetch(k+'.md',{cache:'no-store'})).text();main.innerHTML=marked.parse(t);}catch(e){main.textContent='Could not load '+k;}

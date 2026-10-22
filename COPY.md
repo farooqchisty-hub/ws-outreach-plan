@@ -11,6 +11,7 @@ researched from your competitors, winning ads researched from what's working, ad
 lift ROAS. Qualitative only, never with a number.
 
 ## Variables
+`{inline_ad_previews}` = the 5 ads shown in the email body as small preview images (about 280px wide, JPG), each linking to its full-size file. No attachments unless the inline test fails.
 `{first}` first name (fallback "there"), `{store}` company name or domain, `{product}` best-seller
 title (short form, no variant text), `{insight}` one true sentence from a fresh Ad Library check,
 `{gift_link}`, `{cal}` = https://cal.com/farooq-magicfit/30min, `{code}` = BFCM10.
@@ -54,16 +55,20 @@ reply yes and I'll get to work right away. statics within a few hours, the video
 ## Ads delivered, arm A
 hey {first}, here they are: 2 new BFCM ads for {product} from our winning ad templates, and 3 reworked takes on one of your live ads ({change_note_short}).
 
-they're full size and yours to run: {gift_link}
+{inline_ad_previews}
 
-if you'd like fresh winning ads like these every Monday, plus videos, the plans are on that page. or grab 30 min with {call_with}: {cal}
+tap any of them to open full size. full size downloads and the plans are here: {gift_link}
+
+if anything's unclear or you'd like a change on any ad, just reply and I'll sort it.
 
 {sender}
 
 ## Ads delivered, arm B (statics first)
-hey {first}, here are your 5 statics for {product}: {gift_link}
+hey {first}, here are your 5 statics for {product}: 2 new BFCM concepts and 3 reworked takes on one of your live ads.
 
-2 are new BFCM concepts, 3 are reworked takes on one of your live ads. the video's being made and I'll send it tomorrow.
+{inline_ad_previews}
+
+full size here: {gift_link}. the video's being made and I'll send it tomorrow. any questions or changes, just reply.
 
 {sender}
 
