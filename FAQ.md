@@ -39,7 +39,7 @@ Every answer ends by moving one step forward: try the plans, tweak an ad, or boo
 | can I try before paying | they already have 5 free ads to test; plans cancel anytime and the ads stay theirs |
 | refund / guarantee | no refunds; cancel anytime, flawed ads rebuilt free |
 | we have an agency / designer | these work alongside them: more tested concepts every Monday; happy to send ads to their team |
-| do you do video | yes, every plan includes videos made by our team each month (2, 6 or 8) |
+| do you do video / can I get a free video | yes, on the paid plans (2, 6 or 8 videos a month, made by our team); the free sample is statics only. plans: https://winningstatics.com |
 | can you run the ads for us | arm A: offer a call; arm B: that's the call |
 | send to my marketer / colleague | thank them, address the new person, same thread |
 | languages other than English | escalate (not confirmed) |

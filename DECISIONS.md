@@ -18,8 +18,8 @@ These are settled. Do not reopen them.
 ## The A/B test
 - Arm A, product: offer 5 free statics (2 new BFCM + 3 improved options of one ad they run). Owner, 23 Oct.
   After the ads: link to their gift page with the paid plans, booking link second.
-- Arm B, managed (done for you): offer a free sample of 5 statics and 1 short video. After the
-  sample: booking link https://cal.com/farooq-magicfit/30min. Farooq negotiates on the call and
+- Arm B, managed (done for you): offer a free sample of 5 statics (NO free video, owner 23 Oct; videos only
+  on paid plans). After the sample: booking link https://cal.com/farooq-magicfit/30min. Farooq negotiates on the call and
   sends the contract and a custom payment link himself.
 - Read-out per arm: replies, yes replies, gifts delivered, gift page views, checkouts, trials,
   purchases, revenue, calls booked. Then the owner picks one model for the rest of the list.
@@ -60,5 +60,4 @@ Add-ons: +25 ads $29, +60 ads $49, +5 products $19/mo, +5 competitors $19/mo, ex
 - Switched on, delivered by hand once a week. No generation pipeline yet.
 - Every paying plan gets a Videos section: the month's video slots (2 / 6 / 8, spread across the
   month) show "being made" until the team uploads them; past videos to watch and download.
-- Arm A: a sample video is made only after a paid monthly plan starts (first payment), never
-  during a trial. Arm B: one sample video per yes, made by hand.
+- No free sample videos for any lead (owner, 23 Oct). Videos are part of the paid plans only.

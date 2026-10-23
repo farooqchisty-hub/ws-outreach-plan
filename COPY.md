@@ -44,9 +44,9 @@ hey {first},
 
 came across {store}'s Meta ads while looking at brands prepping for BFCM. {insight}.
 
-we're a small team making winning ads, statics and UGC videos on styles proven to lift ROAS, done for you weekly. before I pitch anything, I'd love to make you a free sample: 5 statics and a short video for {product}.
+we're a small team making winning ads on styles proven to lift ROAS, done for you weekly. before I pitch anything, I'd love to make you a free sample: 5 statics for {product}.
 
-reply yes and I'll get to work right away. statics within a few hours, the video next day.
+reply yes and I'll get to work right away. you'll have them within a few hours.
 
 {signature}
 
@@ -68,6 +68,8 @@ here they are: 2 new BFCM ads for your {product}, and 3 reworked takes on your {
 
 [{link_text}]({short_link})
 
+we also do videos if you'd like to move forward on any of our paid plans. you can check them out here: https://winningstatics.com
+
 **if you've got any questions on how the paid plan would work, or you'd like a hand getting set up, just reply. happy to walk you through it.**
 
 {signature}
@@ -85,22 +87,27 @@ hey {first}, here are your 5 statics for {product}: 2 new BFCM concepts and 3 re
 
 {inline_ad_previews}
 
-full size here: {gift_link}. the video's being made and I'll send it tomorrow. any questions or changes, just reply.
+{why_these_work}
+
+full size here: {gift_link}
+
+we also do videos if you'd like to move forward on any of our paid plans. you can check them out here: https://winningstatics.com
+
+**if you've got any questions on how the paid plan would work, or you'd like a hand getting set up, just reply. happy to walk you through it.**
 
 {sender}
 
-## Video delivered, arm B
-hey {first}, here's the video for {product}: {video_link}
+(v2, owner 23 Oct: arm B carries the why-lines and the paid-plan line, as arm A.)
 
-this is what we'd make for you every week: winning statics and videos, researched from what's working for your competitors, done for you. if you like where it's going, grab 30 min with {call_with} and we'll work out what you need: {cal}
-
-{sender}
+## Videos (owner, 23 Oct)
+No free videos for anyone. The free sample is statics only. Videos are mentioned only as part of the paid plans
+(see the delivery emails). Never promise, make or send a sample video to a lead.
 
 ## After the ads, they go quiet (2 days apart)
 1. hey {first}, made you one more while I was at it: {extra_ad_link}. happy to tweak any of the 6, just tell me what to change.
 2. {first}, if you want winning ads like these every Monday through BFCM, here's 10% off your first 3 months: {code}. it's applied on this link: {gift_link}?code={code}
 3. last nudge from me. your ads are yours either way. if you want more before BFCM, just reply.
-Arm B after the video: same rhythm, but the ask is always the call ({cal}), and follow-up 2 offers to send 2 more statics instead of the code.
+Arm B: same rhythm, but the ask is always the call ({cal}), and follow-up 2 offers to send 2 more statics instead of the code.
 
 ## Hard no
 totally fair, thanks for letting me know. if you ever want to try it yourself, there's a free plan with 5 free ads at winningstatics.com. no pressure, and reply anytime if that changes.
